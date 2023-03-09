@@ -56,7 +56,7 @@ function App() {
           <label htmlFor='imgUrl'>Marca de carro favorita</label>
           <input
             type='text'
-            name='plato'
+            name='marca'
             value={plato}
             onChange={(e) => setMarca(e.target.value)}
           />
