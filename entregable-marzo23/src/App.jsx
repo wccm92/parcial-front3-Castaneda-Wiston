@@ -35,7 +35,7 @@ function App() {
       marca: marca
     }
 
-    setPlatoFav(marcaFavorita)
+    setMarcaFav(marcaFavorita)
     setSubmitted(true)
   }
 
